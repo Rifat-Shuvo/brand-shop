@@ -1,3 +1,20 @@
+# Features of this site:
+
+*** This is the first ever fullstacjk site which is ineract the database.
+
+*** This site have impressive UI which is easy to understand.
+
+*** This site have no complexity,  that's why any developers can develop & understand thie codes.
+
+***This site have login & signup functionalities.
+
+*** This site have the some private route and authentication setup
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
