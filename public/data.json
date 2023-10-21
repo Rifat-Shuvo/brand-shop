@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "photo": "https://i.ibb.co/fQ4z4bw/apple.png",
+      "title": "Apple",
+      "link": "/apple"
+    },
+    {
+      "id": 2,
+      "photo": "https://i.ibb.co/qR52nKd/lg.png",
+      "title": "LG",
+      "link": "/lg"
+    },
+    {
+      "id": 3,
+      "photo": "https://i.ibb.co/K5pnXPq/infinix.png",
+      "title": "Infinix",
+      "link": "/infinix"
+    },
+    {
+      "id": 4,
+      "photo": "https://i.ibb.co/pJH2mTW/oppo.png",
+      "title": "Oppo",
+      "link": "/oppo"
+    },
+    {
+      "id": 5,
+      "photo": "https://i.ibb.co/Trk0jW4/samsung.png",
+      "title": "Samsung",
+      "link": "/samsung"
+    },
+    {
+      "id": 6,
+      "photo": "https://i.ibb.co/jVHfZVK/sony.png",
+      "title": "SONY",
+      "link": "/sony"
+    }
+  ]
+  
