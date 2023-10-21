@@ -15,7 +15,7 @@ const AddProduct = () => {
         const rating = form.rating.value 
        const newc ={imgurl, name,brand,type,price,description,rating}
        console.log(newc);
-    fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/brands',{
+    fetch('https://brandshop-backens-folder.vercel.app/brands',{
         method: 'POST',
         headers:{
             'content-type' : 'application/json'

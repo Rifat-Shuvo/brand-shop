@@ -50,33 +50,33 @@ const myRouter = createBrowserRouter([{
     {
       path: '/apple',
       element: <Apple></Apple>,
-      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/brands/apple')
+      loader: () => fetch('https://brandshop-backens-folder.vercel.app/brands/apple')
     },
 
     {
       path: '/lg',
       element: <Lg></Lg>,
-      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/lg')
+      loader: () => fetch('https://brandshop-backens-folder.vercel.app/brands/lg')
     },
     {
       path: '/infinix',
       element: <Infinix></Infinix>,
-      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/infinix')
+      loader: () => fetch('https://brandshop-backens-folder.vercel.app/brands/infinix')
     },
     {
       path: '/oppo',
       element: <Oppo></Oppo>,
-      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/brands/oppo')
+      loader: () => fetch('https://brandshop-backens-folder.vercel.app/brands/oppo')
     },
     {
       path: '/samsung',
       element: <Samsung></Samsung>,
-      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/brands/samsung')
+      loader: () => fetch('https://brandshop-backens-folder.vercel.app/brands/samsung')
     },
     {
       path: '/sony',
       element: <Sony></Sony>,
-      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/brands/sony')
+      loader: () => fetch('https://brandshop-backens-folder.vercel.app/brands/sony')
     }
   ]
 }
