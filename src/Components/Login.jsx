@@ -33,7 +33,7 @@ const Login = () => {
                     title: 'Errorr!',
                     text: 'email & password give attentively',
                     icon: 'error',
-                    // confirmButtonText: 'Ok'
+                    confirmButtonText: 'Ok'
                   })
             })
     }
