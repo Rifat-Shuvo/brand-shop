@@ -10,7 +10,10 @@
 
 *** This site have the some private route and authentication setup
 
+***This site is easy to maintainance.
 
+
+# Live client site link: https://brand-shop-12da9.web.app/
 
 
 
