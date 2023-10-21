@@ -50,33 +50,33 @@ const myRouter = createBrowserRouter([{
     {
       path: '/apple',
       element: <Apple></Apple>,
-      loader: () => fetch('http://localhost:5000/brands/apple')
+      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/brands/apple')
     },
 
     {
       path: '/lg',
       element: <Lg></Lg>,
-      loader: () => fetch('http://localhost:5000/brands/lg')
+      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/lg')
     },
     {
       path: '/infinix',
       element: <Infinix></Infinix>,
-      loader: () => fetch('http://localhost:5000/brands/infinix')
+      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/infinix')
     },
     {
       path: '/oppo',
       element: <Oppo></Oppo>,
-      loader: () => fetch('http://localhost:5000/brands/oppo')
+      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/brands/oppo')
     },
     {
       path: '/samsung',
       element: <Samsung></Samsung>,
-      loader: () => fetch('http://localhost:5000/brands/samsung')
+      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/brands/samsung')
     },
     {
       path: '/sony',
       element: <Sony></Sony>,
-      loader: () => fetch('http://localhost:5000/brands/sony')
+      loader: () => fetch('https://brandshop-backens-folder-pqx9z56bq-shuvos-projects-d1bb4b2b.vercel.app/brands/sony')
     }
   ]
 }
