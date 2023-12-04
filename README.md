@@ -16,7 +16,7 @@
 # Live client site link: https://brand-shop-12da9.web.app/
 
 
-
+# Technology: HTML, CSS, JavaScript, React, Tailwind, Daisyui, Firebase.
 
 # React + Vite
 
