@@ -1,4 +1,4 @@
-# Features of this site:
+# Features of this site: (a-10)
 
 *** This is the first ever fullstacjk site which is ineract the database.
 
@@ -12,6 +12,9 @@
 
 ***This site is easy to maintainance.
 
+*** The data is categorized by brand and fetching from the database. 
+
+*** Also there ahave a add product page where only registered user can add products.
 
 # Live client site link: https://brand-shop-12da9.web.app/
 
